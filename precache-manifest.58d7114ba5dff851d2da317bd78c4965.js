@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5e829a7bdcb846a179c26d851f78d534",
+    "revision": "bc0d0260911fcc7d3ea51326cae53fea",
     "url": "/react_uber-eats/index.html"
   },
   {
